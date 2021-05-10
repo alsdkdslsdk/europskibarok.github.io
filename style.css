@@ -1,0 +1,400 @@
+body {
+  background-color: lightgrey;
+  background-image: url("Lol.png");
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 40%; 
+  left: 52.5%;
+  z-index: 1;
+}
+#slikaBarok {
+  width: 1904px;
+  height: 1071px;
+margin-top: -8px;
+margin-left: -8px;
+z-index: -1;
+filter: brightness(50%);
+}
+#slikaCervantes {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 150px;
+  top: 1775px;
+}
+#slikaQuijote {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 1775px;
+  z-index: 1;
+}
+#slikaWikibarok {
+  position: absolute;
+  width: 450px;
+  height: 300px;
+  z-index: 1;
+  left: 1418px;
+  top: 112.5%;
+}
+#slikaMarino {
+  position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 150px;
+  top: 2525px;
+}
+#slikaLadone {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 2525px;
+}
+#slikaGongora {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 100px;
+  top: 3250px;
+}
+  #slikaGongoraKnjiga {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 3250px;
+}
+  #slikaCarravagioPortret {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 100px;
+  top: 4150px;
+}
+    #slikaCarravagio1 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 4150px;
+}
+    #slikaCarravagio2 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 100px;
+  top: 4625px;
+}
+    #slikaCarravagio3 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 4625px;
+}
+    #slikaBernini1 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 100px;
+  top: 5400px;
+}
+    #slikaBernini2 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 5400px;
+}
+    #slikaBernini3 {
+    position: absolute;
+  width: 650px;
+  height: 500px;
+  z-index: 1;
+  left: 1000px;
+  top: 5875px;
+}
+    #slikaBernini4 {
+    position: absolute;
+  width: 650px;
+  height: 500px;
+  z-index: 1;
+  left: 100px;
+  top: 5875px;
+}
+    #slikaRijn1 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 100px;
+  top: 6875px;
+}
+    #slikaRijn2 {
+    position: absolute;
+  width: 650px;
+  height: 400px;
+  z-index: 1;
+  left: 1000px;
+  top: 6875;
+}
+    #slikaRijn3 {
+    position: absolute;
+  width: 650px;
+  height: 450px;
+  z-index: 1;
+  left: 100;
+  top: 7350;
+}
+    #slikaRijn4 {
+    position: absolute;
+  width: 650px;
+  height: 450px;
+  z-index: 1;
+  left: 1000px;
+  top: 7350px;
+}
+#naslovBarok {
+    position: absolute;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  top: -10px;
+  left: 45.5%;
+  text-decoration: underline;
+}
+#tekstBarok {
+    position: absolute;
+  right: 400px;
+  color: black;
+  font-size: 35px;
+  top: 60px;
+  left: 20px;
+  margin-right: 50px;
+}
+#naslovKnjizevnici {
+    position: absolute;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  top: 400px;
+  left: 35%;
+  text-decoration: underline;
+}
+#naslovCervantes {
+    position: absolute;
+  right: 425px;
+  color: black;
+  position: absolute;
+  font-size: 35px;
+  top: 475px;
+  left: 20px;
+  text-decoration: underline;
+  }
+  #cervantesTekst {
+      position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 520px;
+  left: 20px;
+  margin-right: 50px;
+  }
+  #naslovMarino {
+  position: absolute;
+  right: 425px;
+  color: black;
+  font-size: 35px;
+  top: 1225px;
+  left: 20px;
+  text-decoration: underline;
+  }
+    #tekstMarino {
+     position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 1270px;
+  left: 20px;
+  margin-right: 50px;
+  }
+    #naslovGongora {
+  position: absolute;
+  right: 425px;
+  color: black;
+  font-size: 35px;
+  top: 1975px;
+  left: 20px;
+  text-decoration: underline;
+  }
+      #tekstGongora
+       {
+     position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 2020px;
+  left: 20px;
+  margin-right: 50px;
+  }
+  #naslovUmjetnici {
+    position: absolute;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  top: 2750px;
+  left: 35%;
+  text-decoration: underline;
+}
+  #naslovCarravagio
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 2825px;
+  left: 20px;
+  margin-right: 50px;
+  text-decoration: underline;
+  }
+  #tekstCarravagio
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 2870px;
+  left: 20px;
+  margin-right: 50px;
+  }
+  #naslovBernini {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 4050px;
+  left: 20px;
+  margin-right: 50px;
+  text-decoration: underline;
+  }
+  #tekstBernini
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 4095px;
+  left: 20px;
+  margin-right: 50px;
+  }
+  #naslovRijn
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 5400px;
+  left: 20px;
+  margin-right: 50px;
+  text-decoration: underline;
+  }
+  #tekstRijn
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 5445px;
+  left: 20px;
+  margin-right: 50px;
+  }
+   #izvori
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 6850px;
+  left: 20px;
+  margin-right: 50px;
+  text-decoration: underline;
+  }
+  a
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 7050px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+  #a2
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 7090px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+  #a3
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 7130px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+  #a4
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 6930px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+    #a5
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 6970px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+    #a6
+  {
+  position: absolute;
+  color: black;
+  font-size: 35px;
+  top: 7010px;
+  left: 20px;
+  margin-right: 50px;
+  color: black;
+  }
+  #izradili
+  {
+  color: black;
+  font-size: 45px;
+  position: absolute;
+  top: 7150px;
+  left: 20px;
+  margin-right: 50px;
+  z-index: 1;
+}
